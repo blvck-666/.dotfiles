@@ -1,0 +1,6 @@
+# ===========================
+# =      COMON ALIASES      = 
+# ===========================
+
+alias p10kconf='nano ~/.config/zsh/.p10k.zsh'
+alias sourcezsh='source ~/.config/zsh/.zshrc'
